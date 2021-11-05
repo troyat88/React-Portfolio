@@ -1,7 +1,7 @@
 // Avatar
 //Short Bio
 import React from 'react'
-//import headshot from "../assets/images/headshot"
+//import headshot from "../images/headshot"
 
 
 function About() {
@@ -9,7 +9,7 @@ function About() {
         <main>
         <aside>
           <h2 id="about-me">About Me</h2>
-          <img id="headshot" src="../assets/images/headshot" alt="headshot of Troy Atkinson" />
+          <img id="headshot" src="./assets/images/images.headshot.jpg" alt="headshot of Troy Atkinson" />
           <p className="headline"><b>BA Communication Studies</b></p>
           <p className="headline">University of Washington</p>
           <p className="headline">class of 2018</p>
