@@ -8,7 +8,7 @@ function Nav() {
     return (
 <header>
             <nav>
-                <ul>
+                <ul >
                     <li className="hide-on-small">
                         <a href="/#aboutMe" className="bold">About Me</a>
                     </li>

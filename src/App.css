@@ -42,7 +42,7 @@ html {
   font-size: 100%; }
 
 body {
-background-color: lightsteelblue;
+background-color: royalblue;
 }
 
 nav, header, main, article, aside, #contact{
@@ -159,4 +159,5 @@ max-width: 100%;
 
 #contact{
 text-align: center;
+
 }
