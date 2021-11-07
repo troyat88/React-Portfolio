@@ -6,6 +6,7 @@ import React from 'react'
 import ProjectCard from './ProjectCard'
 
 //import images
+//import img1 from "";
 
 function Projects() {
     const projects = [
@@ -30,7 +31,7 @@ function Projects() {
             //pjImg: img3,
             git:"https://github.com/troyat88/Weather-Dashboard",
             deployment:"https://troyat88.github.io/Weather-Dashboard/",
-            desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia distinctio quisquam, perspiciatis consequuntur odio sapiente rem! Ratione harum magni, neque laboriosam natus omnis officia aspernatur corrupti quidem, aut sapiente cum iure dolore ullam. Laborum perspiciatis delectus iure consectetur vel porro modi numquam vero dignissimos eveniet!",
+            desc: "A dashboard where viewers can view weather conditions and a forecast by city.",
             id: "3",
         },
         {
@@ -59,18 +60,18 @@ function Projects() {
         },
     ]
 
-        return( 
-            <section id="projects" class="section bg-light">
+    return( 
+            <section id="projects" style={{backgroundColor:"cornflowerblue"}}>
             <div class="container">
                     <div>
-                        <h1 className="text-large bg-dark rounded">Projects</h1>
+                        <h1 className="text-large">Projects</h1>
                     </div>
                 <div className="shows">
                 {/* Grabbing the show info and mapping through */}
                 {projects.map((project) => (
                     // placing each set of show info into its own ShowCard
                     <ProjectCard 
-                    project={project.venue}
+                    project={project.project}
                     img={project.pjImg}
                     deployment={project.deployment}
                     git={project.git}
@@ -81,7 +82,7 @@ function Projects() {
                 </div>
             </div>
         </section>
-        )
+    )
 }
 
 export default Projects

@@ -19,7 +19,7 @@ function Nav() {
                         <a href="/#contact" className="navLink">Contact</a>
                     </li>
                     <li>
-                        <a href="/#contact" className="navLink">Resume</a>
+                    <a href="./images/CODING RESUME.docx" target="_blank">Resume</a>
                     </li>
                 </ul>
                 

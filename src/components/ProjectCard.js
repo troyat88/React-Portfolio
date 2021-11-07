@@ -5,7 +5,7 @@ import React, { Fragment } from 'react'
 function projectCard(project) {
     return (
         <Fragment>
-            <figure>
+    <figure>
                 <img className="rounded" src={project.pjImg} alt="placeholder"></img>
             </figure>
             <div className="ml-25">
@@ -16,11 +16,11 @@ function projectCard(project) {
                     {project.desc}
                 </p>
                 
-            </div>
-
-
+            </div> 
         </Fragment>
     )
 }
 
 export default projectCard
+
+
