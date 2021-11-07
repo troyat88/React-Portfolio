@@ -48,7 +48,7 @@ background-color: royalblue;
 nav, header, main, article, aside, #contact{
 display:flexbox;
 background-color: cornflowerblue;
-margin-top: 20px;
+margin-top: 0px;
 padding: 10px 0px 5px 0px;
 
 
