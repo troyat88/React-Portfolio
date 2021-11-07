@@ -10,7 +10,7 @@ function About() {
         <aside className="aside">
         <div className="card" style={{width:"15rem", backgroundColor:"lightsteelblue"}}>
           <h2 id="about-me">About Me</h2>
-          <img id="headshot" src="{headshot}" alt="headshot of Troy Atkinson" />
+          <img id="headshot" src="https://avatars.githubusercontent.com/u/84994035?v=4" alt="headshot of Troy Atkinson" />
           <p className="headline"><b>BA Communication Studies</b></p>
           <p className="headline">University of Washington</p>
           <p className="headline">class of 2018</p>
