@@ -39,7 +39,8 @@
 
 
 html { 
-  font-size: 100%; }
+  font-size: 100%;
+  background-color: lightsteelblue; }
 
 body {
 background-color: royalblue;
@@ -54,8 +55,8 @@ padding: 10px 0px 5px 0px;
 
 }
 
-main, article, #contact {
-height: 600px;
+main, article, #contact, .resume {
+height: 100%;
 width:100%;
 
 }

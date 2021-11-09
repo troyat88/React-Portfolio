@@ -8,10 +8,11 @@ function Footer() {
         <div>
             <footer style={{backgroundColor:"RoyalBlue", height:"100px"}}>
             <div className="social-icons-container">
-                <h4>Visit my linkedin and Github profiles!</h4>
+                <h4>More Contact Resources</h4>
             <section  >   
             <SocialIcon   style={{marginTop:"10px"}} className="social-icon" target="_blank" url="https://github.com/troyat88" />
             <SocialIcon style={{marginTop:"10px"}} className="social-icon" target="_blank" url="https://www.linkedin.com/in/troy-atkinson-uw/" />
+            <SocialIcon style={{marginTop:"10px"}} className="social-icon" target="_blank" url="mailto:troyat88@gmail.com" />
             
             </section>
         </div>
