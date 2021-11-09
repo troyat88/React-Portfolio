@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.9ae222f0.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.c558b4e7.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.c558b4e7.chunk.js.map",
-    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.8f33aab6.js",
-    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.8f33aab6.js.map",
-    "static/js/2.03fb6f21.chunk.js": "/React-Portfolio/static/js/2.03fb6f21.chunk.js",
-    "static/js/2.03fb6f21.chunk.js.map": "/React-Portfolio/static/js/2.03fb6f21.chunk.js.map",
-    "static/js/3.4b6b120b.chunk.js": "/React-Portfolio/static/js/3.4b6b120b.chunk.js",
-    "static/js/3.4b6b120b.chunk.js.map": "/React-Portfolio/static/js/3.4b6b120b.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.13ee3942.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.98137ea4.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.98137ea4.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.bc36ade6.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.bc36ade6.js.map",
+    "static/js/2.aa73b104.chunk.js": "/React-Portfolio/static/js/2.aa73b104.chunk.js",
+    "static/js/2.aa73b104.chunk.js.map": "/React-Portfolio/static/js/2.aa73b104.chunk.js.map",
+    "static/js/3.1ba61dd1.chunk.js": "/React-Portfolio/static/js/3.1ba61dd1.chunk.js",
+    "static/js/3.1ba61dd1.chunk.js.map": "/React-Portfolio/static/js/3.1ba61dd1.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.9ae222f0.chunk.css.map": "/React-Portfolio/static/css/main.9ae222f0.chunk.css.map",
-    "static/js/2.03fb6f21.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.03fb6f21.chunk.js.LICENSE.txt"
+    "static/css/main.13ee3942.chunk.css.map": "/React-Portfolio/static/css/main.13ee3942.chunk.css.map",
+    "static/js/2.aa73b104.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.aa73b104.chunk.js.LICENSE.txt",
+    "static/media/CODINGRESUME.b6eb6193.pdf": "/React-Portfolio/static/media/CODINGRESUME.b6eb6193.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f33aab6.js",
-    "static/js/2.03fb6f21.chunk.js",
-    "static/css/main.9ae222f0.chunk.css",
-    "static/js/main.c558b4e7.chunk.js"
+    "static/js/runtime-main.bc36ade6.js",
+    "static/js/2.aa73b104.chunk.js",
+    "static/css/main.13ee3942.chunk.css",
+    "static/js/main.98137ea4.chunk.js"
   ]
 }
